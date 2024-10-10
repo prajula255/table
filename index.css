@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid black;
+}
+.container{
+    padding: 2rem;
+}
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style: lower-roman;
+}
+
+dl{
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
